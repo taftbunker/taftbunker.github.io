@@ -1,0 +1,5 @@
+Contact: mailto:ovenpilothq@gmail.com
+Expires: 2027-11-25T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://taftbunker.github.io/.well-known/security.txt
+Policy: https://taftbunker.github.io/ovenpilot/privacy.html#security
