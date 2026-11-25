@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://taftbunker.github.io/ovenpilot/sitemap.xml
